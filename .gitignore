@@ -1,3 +1,6 @@
 node_modules
 .DS_Store
-dist/assests
+docs/assests
+docs/css
+docs/index.html
+docs/js
